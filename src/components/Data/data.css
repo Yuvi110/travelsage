@@ -1,0 +1,60 @@
+.def{
+    border: 1px solid lightgray;
+    display: flex;
+    gap: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
+.xyz{
+    padding: 6rem;
+}
+.tuv{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.ijk{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+}
+.pqr{
+    font-weight: 600;
+    padding-top: 1rem;
+    font-size: 1.7rem;
+    color: rgb(0, 0, 0);
+}
+.desc{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    flex: 2;
+}
+.tuv{
+    font-size: 1rem;
+    gap: 1rem;
+    padding-top: 1rem;
+}
+.jkl{
+    font-size: 0.8rem;
+    font-weight: bold;
+    
+}
+.cancel{
+    font-size: 0.7rem;
+    color: blue;
+    font-weight: 600;
+}
+.cost{
+    font-weight: 500;
+    justify-content:baseline;
+}
+.mug{
+    background-color: gray;
+    color:  white;
+    size: 1rem;
+    padding: 8px;
+}
+.rates{
+    margin-top: 6rem;
+    flex: 1;
+
+}
